@@ -2,8 +2,8 @@
 
 Code for the serverside part of safari push.
 
-Prototype for deredactie.be (VRT)
+Demo for deredactie.be (VRT) hosted on [heroku](https://wingsafariendpoint.herokuapp.com). 
 
-Demo: http://vrt-cc.s3-website-eu-west-1.amazonaws.com/safaripush/
+**Client side repo:** https://github.com/damianleung/safari-push-clientside
 
-Endpoints: https://wingsafariendpoint.herokuapp.com
+**Demo:** http://vrt-cc.s3-website-eu-west-1.amazonaws.com/safaripush
