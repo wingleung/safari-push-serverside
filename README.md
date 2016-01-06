@@ -1,6 +1,6 @@
 # Safari push: serverside #
 
-Code for the serverside part of safari push.
+Code to setup endpoints in node.js needed by Safari for push notification.
 
 Demo for deredactie.be (VRT) hosted on [heroku](https://wingsafariendpoint.herokuapp.com). 
 
