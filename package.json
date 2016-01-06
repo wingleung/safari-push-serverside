@@ -1,0 +1,16 @@
+{
+  "name": "safari-push-endpoint",
+  "version": "0.0.1",
+  "description": "Endpoint for safari push notification",
+  "main": "node node_http_server.js",
+  "scripts": {
+    "start": "node node_http_server.js"
+  },
+  "devDependencies": {
+    "archiver": "*",
+    "rimraf": "*"
+  },
+  "engines": {
+    "node": "0.12.7"
+  }
+}
