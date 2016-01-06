@@ -2,6 +2,8 @@
 
 Code to setup endpoints in node.js needed by Safari for push notification.
 
+This project does **NOT** include a pushfarm for sending push notifications to subscribers. You might look into [node-apn](https://github.com/argon/node-apn) for that
+
 Demo for deredactie.be (VRT) hosted on [heroku](https://wingsafariendpoint.herokuapp.com). 
 
 **Client side repo:** https://github.com/damianleung/safari-push-clientside
